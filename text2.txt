@@ -1,1 +1,2 @@
 This is the Second doc for Git demo
+This is for beginners
